@@ -1,0 +1,10 @@
+main: com.belmu.voidbank.Main
+author: Belmu
+name: VoidBank
+version: 1.0
+api-version: 1.16
+description: Adds a banking system accorded to the void. Twitter - @Belmu_
+commands:
+  void:
+    aliases: [vd]
+    description: Void-related features.
